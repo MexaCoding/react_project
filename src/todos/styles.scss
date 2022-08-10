@@ -1,0 +1,10 @@
+.checkbox {
+    &.checked {
+      color: gray;
+  
+      label {
+        text-decoration: line-through;
+  
+      }
+    }
+  }
